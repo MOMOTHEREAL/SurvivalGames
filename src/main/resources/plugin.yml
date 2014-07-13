@@ -1,0 +1,3 @@
+name: SurvivalGames
+version: '${project.version}'
+main: me.momo.survivalgames.SurvivalGames
